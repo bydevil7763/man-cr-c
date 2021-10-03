@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "db542b62-8b35-34d9-b501-5a492e0d1c33",
+    "name": "thelegend2",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "dde606b5-49e6-34d7-8660-1ce8b951c6f0",
+    "name": "thelegend",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "5cf15bf3-eb63-370a-84c6-dff884d3e458",
+    "name": "tlgnd",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "070cc285-886d-39c0-8f72-63bbeecae7ed",
+    "name": "Glest",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
